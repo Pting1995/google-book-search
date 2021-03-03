@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
 
-function Header() {
+function Banner() {
 
     return (
         <div className="header">
@@ -11,4 +11,4 @@ function Header() {
     );
 }
 
-export default Header;
+export default Banner;
